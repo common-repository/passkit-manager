@@ -1,0 +1,11 @@
+#icon-passkit_manager {
+    background: transparent url( '../img/passkit-icon-bw32x32.png' ) no-repeat;
+}
+
+.custom_message {
+	padding: 10px;
+	background: #FFFFE0;
+	border: 1px solid #E6DB55;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
